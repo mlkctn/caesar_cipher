@@ -2,7 +2,7 @@ How to Run the Program
 1-Clone the Repository:
 
 If you're using Git, clone the repository with:
-git clone https://github.com/yourusername/caesar_cipher.git
+git clone https://github.com/mlkctn/caesar_cipher.git
 
 Navigate to the project folder:
 cd caesar_cipher
